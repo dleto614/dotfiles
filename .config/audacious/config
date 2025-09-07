@@ -1,0 +1,17 @@
+
+[audacious]
+shuffle=TRUE
+
+[audgui]
+filesel_path=/run/media/alex/DELL_-_IPOD/Music/Twenty One Pilots - Blurryface (2015) [FLAC]
+
+[audqt]
+icon_theme=audacious-flat-dark
+theme=dark
+
+[qtui]
+player_height=871
+player_width=1596
+
+[skins]
+skin=/usr/share/audacious/Skins/Default

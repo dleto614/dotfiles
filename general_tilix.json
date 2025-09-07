@@ -1,0 +1,51 @@
+{
+    "child": {
+        "child1": {
+            "directory": "\/home\/alex",
+            "height": 718,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "e5f3daf4-bd3f-4516-ad46-d4aff804d0f9",
+            "width": 673
+        },
+        "child2": {
+            "child1": {
+                "directory": "\/home\/alex",
+                "height": 359,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "89e15f89-db07-4542-9d35-5eb21b5de043",
+                "width": 672
+            },
+            "child2": {
+                "directory": "\/home\/alex",
+                "height": 358,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "7ffdae8b-c1fe-4f0d-8aca-b78f7224af98",
+                "width": 672
+            },
+            "orientation": 1,
+            "position": 50,
+            "ratio": 0.5,
+            "type": "Paned"
+        },
+        "orientation": 0,
+        "position": 50,
+        "ratio": 0.5,
+        "type": "Paned"
+    },
+    "height": 718,
+    "name": "${title}",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "af50c80e-0b68-4ffd-9b66-045e93df4ee8",
+    "version": "1.0",
+    "width": 1346
+}

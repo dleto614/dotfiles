@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Vimix-compact-doder
+Comment=Clean Gtk+ theme based on Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Vimix-compact-doder
+MetacityTheme=Vimix-compact-doder
+IconTheme=Vimix-doder
+CursorTheme=Vimix-doder
+ButtonLayout=menu:minimize,maximize,close
