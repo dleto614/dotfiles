@@ -8,13 +8,13 @@ These are just the general dotfiles of my configuration on my laptop which I hav
 
 Mandatory screenshots:
 
-![neofetch](screenshots/neofetch.pngimageFolder/screenshot.png)
+![neofetch](screenshots/neofetch.png)
 
 ![multi-terminals](screenshots/cowsay-i-do-this-right.png)
 
 ![veritcal](screenshots/vertical.png)
 
-![tilix](screenshots/tilix.pngscreenshots/app-menu.png)
+![tilix](screenshots/tilix.png)
 
 ![codium](screenshots/decided-i-wasn't-good-enough-to-be-a-gamer.png)
 
