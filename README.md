@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="Image/duck-dance.gif" alt="Dancing Duck" width="300"/>
+</p>
+
 # Dotfiles
+
+## Introduction:
 
 Very low effort, but I just wanted to show how cool my setup is. :3
 
@@ -6,7 +12,9 @@ I normally don't like dotfiles since I think most out there are just not realist
 
 These are just the general dotfiles of my configuration on my laptop which I have modified from my desktop such as adding a power manager. This is pretty low effort, but this is what I run on all my personal machines at the moment.
 
-Mandatory screenshots:
+----
+
+## Mandatory Screenshots:
 
 ![neofetch](screenshots/neofetch.png)
 
@@ -21,11 +29,19 @@ Mandatory screenshots:
 ![appmenu](screenshots/app-menu.png)
 
 
+## Explanation:
+
 For the lockscreen I use betterlockscreen which you can find here: https://github.com/betterlockscreen/betterlockscreen
 
-For the keyboard layout, as of now, I have paused learning Russian, but will go back to that when I find time and other stuff like a tutor.
+~~For the keyboard layout, as of now, I have paused learning Russian, but will go back to that when I find time and other stuff like a tutor.~~ (Not important. Nobody wants to read my strayed thoughts.)
 
-I use i3 and since I have the room now, I can waste space via gaps. Which looks nice. Most of my config is still heavily the default endeavour os i3 dotfiles which you can find here: https://github.com/endeavouros-team/endeavouros-i3wm-setup
+I use i3 and since I have the room now, I can waste space via gaps. Which looks nice. :D
+
+Most of my config is still heavily the default endeavour os i3 dotfiles which you can find here: https://github.com/endeavouros-team/endeavouros-i3wm-setup
+
+------
+
+## Keybinds:
 
 I use mod+r to find/run my applications which is how I use all but a handful of applications.
 
@@ -43,6 +59,10 @@ You can find iwmenu here: https://github.com/e-tho/iwmenu
 
 No I am not going to take a screenshot of my wifi networks.
 
+------
+
+## Random Stuff:
+
 There is an inconsistency in rounded and non rounded corners, but that is because picom does not have rounded corners built in and I don't see that as an issue.
 
 The icons used I believe is `eos-qogir-icons` and you can install that via:
@@ -52,13 +72,13 @@ sudo pacman -Sy eos-qogir-icons
 ```
 I have it set to qogir-dark in lxappearance. The widget theme is vimix-dark-doder.
 
-My wallpapers are in the wallpaper folder and you can change it on this line: exec --no-startup-id sleep 1 && feh --bg-fill /home/alex/Pictures/wallpaper/anime-duck-wallpaper.webp
+My wallpapers are in the wallpaper folder and you can change it on this line: `exec --no-startup-id sleep 1 && feh --bg-fill /home/alex/Pictures/wallpaper/anime-duck-wallpaper.webp`
 
 (I usually either do something like this `cat .config/i3/config | grep "feh"` to find/check the command or I open it in vim and do `/feh` or whatever to search. To go to next found keyword, just press i to edit.)
 
 ---
 
-General overview of my utils and such:
+## General Overview of my Utils and Such:
 
 - WM: i3
 - Terminal: alacritty
@@ -75,4 +95,19 @@ General overview of my utils and such:
 
 I have a lot more application, but this would take too long.
 
+----
+
+## Themes:
+
 In general, the themes I use are dracula or catpucchin. They give the dark themes I like while looking purdy. I favor dark flat themes. They just look nice especially on my eyes. I prefer urxvt over alacritty, but there is a bug in urxvt which caused the terminal to not spawn with the console line at the top depending on where/how the tiling wm is at or whatever and this is something that is just something urxvt was never made or able to properly fix.
+
+----
+
+## Conclusion:
+
+That's it. My setup is pretty boring, but it works. Anyways...
+
+<p align="center">
+  <img src="Image/bear-bye.jpg" alt="Bear Waving"/>
+</p>
+
